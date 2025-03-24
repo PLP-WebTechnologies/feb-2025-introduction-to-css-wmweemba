@@ -1,0 +1,17 @@
+
+
+#welcome {
+    font-family: 'Times New Roman';
+    color: blue;
+    }
+
+.image-section {
+    margin: 20px 15px 15px 20px;
+}
+
+img {
+    border: 3px solid grey;
+    padding: 20px;
+
+}
+
